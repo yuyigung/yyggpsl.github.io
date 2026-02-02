@@ -1,13 +1,16 @@
 ---
+layout: single
 permalink: /
-title: "Welcome to Planetary Seismology Lab! "
-author_profile: true
-redirect_from: 
+title: "Planetary Seismology Lab"
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Our lab focuses on understanding the interior structure and dynamics of the Earth and planetary bodies using seismological and geophysical methods.
+## Welcome
+
+The **Planetary Seismology Lab** focuses on understanding the interior structure and dynamics of the Earth and planetary bodies using seismological and geophysical methods.
 
 We combine observational data, numerical modeling, and theoretical approaches to study mantle structure, lithospheric processes, and planetary evolution.
 
